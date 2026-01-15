@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <PackageId>InvoiceFeesTunisia</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Mohamed Ben Ayed</Authors>
+	  <Company>MBA</Company>
+
+	  <Description>
+		  SDK .NET pour le calcul exact des frais mensuels de facturation électronique de TTN.
+	  </Description>
+
+	  <PackageTags>invoice;fees;billing;edi;facturation</PackageTags>
+  </PropertyGroup>
+
+</Project>
